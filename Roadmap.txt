@@ -1,0 +1,16 @@
+1-create folder
+2 create python file
+3- go to "open Git Bash" ( with right click) 
+4- ls
+
+5- git int
+6- git status
+7- touch p1.txt p2.txt p3.txt  ( Create files)
+8- git add .
+
+9-  git status
+10- git config --global user.name "Amir-DataEngineer"
+11- git config --global user.email "amir.h.bagheri2017@gmail.com"
+
+12- git config --local user.name "Amir-DataEngineer"
+13- git config --local user.email "amir.h.bagheri2017@gmail.com"
