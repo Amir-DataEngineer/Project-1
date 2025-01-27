@@ -40,6 +40,13 @@ on GitHub for  push an existing repository from the command line
 6- git branch
 7- git push -u origin main
 
+8- touch p5.txt
+9- git add .
+10- git status
+11- git commit -m "Ajout des pages p5.txt"
+
+12- git push 
+
 
 
 
