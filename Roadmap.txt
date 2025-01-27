@@ -14,3 +14,43 @@
 
 12- git config --local user.name "Amir-DataEngineer"
 13- git config --local user.email "amir.h.bagheri2017@gmail.com"
+
+14- cat .git/config
+15- git commit -m "Ajout des pages page1.txt page2.txt page3.txt"
+16- git log
+
+17- touch p4.txt
+18- git add .
+19- git status
+20- git commit -m "Ajout des pages p4.txt"
+
+21- git status
+22- git log     
+23- git log --graph --oneline
+
+==========
+on GitHub for  push an existing repository from the command line
+==========
+
+1- your repository | new | create Repository
+2- git remote add origin https://github.com/Amir-DataEngineer/Project-1.git
+3- cat .git/config
+4- git branch
+5- git branch -M main
+6- git branch
+7- git push -u origin main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
